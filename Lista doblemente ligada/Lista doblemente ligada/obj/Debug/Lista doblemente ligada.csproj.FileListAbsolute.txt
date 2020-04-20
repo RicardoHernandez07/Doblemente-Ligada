@@ -1,0 +1,6 @@
+C:\Users\Ricardo Hernandez\Desktop\Lista doblemente ligada\Lista doblemente ligada\bin\Debug\Lista doblemente ligada.exe.config
+C:\Users\Ricardo Hernandez\Desktop\Lista doblemente ligada\Lista doblemente ligada\bin\Debug\Lista doblemente ligada.exe
+C:\Users\Ricardo Hernandez\Desktop\Lista doblemente ligada\Lista doblemente ligada\bin\Debug\Lista doblemente ligada.pdb
+C:\Users\Ricardo Hernandez\Desktop\Lista doblemente ligada\Lista doblemente ligada\obj\Debug\Lista doblemente ligada.csprojAssemblyReference.cache
+C:\Users\Ricardo Hernandez\Desktop\Lista doblemente ligada\Lista doblemente ligada\obj\Debug\Lista doblemente ligada.exe
+C:\Users\Ricardo Hernandez\Desktop\Lista doblemente ligada\Lista doblemente ligada\obj\Debug\Lista doblemente ligada.pdb
